@@ -22,5 +22,5 @@ Voi myös tarkoittaa aikaa sillä välillä kun kirjoittaja saa aiheen ja kun ai
 ## Linkit wikin muihin sivuihin
 
 
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]()
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]() 
+* [Läpimenoaika](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/lapimenoaika.md)
+
