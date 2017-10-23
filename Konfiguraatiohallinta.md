@@ -1,4 +1,4 @@
-# Käsite XYZÖÄ
+# Käsite Konfiguraationhallinta
 
 Kuvauksen kirjoitti: Elias Virtanen, tunnus H9576
 
@@ -48,7 +48,14 @@ Nämä ovat kuitenkin ideaalisia järjestelmiä konfiguraatio järjestelmälle m
 ## Esimerkkejä
 
 Konfigurointihallintaa käytetään esimerkiksi tapana hallita muutoksia ohjelmointiprojekteissa. Sillä tunnistetaan 
-toiminnallisia ja fyysisiä piirteitä eri aikoina, se suorittaa systemaattisia muutoksia toimintoihin toimivuuden ja jäljitettävyyden ylläpitämiseksi.
+toiminnallisia ja fyysisiä piirteitä eri aikoina, se suorittaa systemaattisia muutoksia toimintoihin toimivuuden 
+ja jäljitettävyyden ylläpitämiseksi.
+
+Konfiguraationhallintaa käytetään paljon armeijan asioissa hallitsemaan monimutkaisten ohjelmien muutoksia niiden elinkaaren aikana, 
+kuten aseohjelmien, panssariajoneuvojen ja informaatio ohjelmien.
+
+Sitä voidaan myös käyttää käyttöjärjestelmien asetustiedostojen ylläpitämiseen. 
+Esimerkki järjestelmiä ovat: Vagrant, Ansible ja CFEngine.
 
 ## Lähteitä liittyen aiheeseen
 
@@ -59,7 +66,6 @@ toiminnallisia ja fyysisiä piirteitä eri aikoina, se suorittaa systemaattisia 
 
 ## Linkit wikin muihin sivuihin
 
-Kerää tähän sivut wikin sisältä, jotka mielestäsi liittyvät kuvaamaasi käsitteeseen/aiheeseen
 
 * [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]()
 * [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]() 
