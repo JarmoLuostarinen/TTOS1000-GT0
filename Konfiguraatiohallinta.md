@@ -66,6 +66,7 @@ Esimerkki järjestelmiä ovat: Vagrant, Ansible ja CFEngine.
 
 ## Linkit wikin muihin sivuihin
 
+- Katso myös:
 
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]()
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]() 
+* [Vagrant](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Vagrant-teknologia.md)
+
