@@ -1,17 +1,11 @@
-# Käsite XYZÖÄ
+# Käsite Läpivientiaika
 
-Kuvauksen kirjoitti: Mauri Bosse, tunnus X1234
+Kuvauksen kirjoitti: Elias Virtanen H9576
 
 ## Lyhyt kuvaus
 
-Käytä tätä sivua pohjana omalle wiki-sivulle! Älä muokkaa tätä, vaan tee siitä kopio!
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mauris dolor, semper egestas justo nec, dapibus porta risus. Mauris ultrices, felis et pretium dapibus, erat turpis gravida ipsum, eget semper ex ante sit amet magna. Nulla eget lorem orci. Integer a erat ante. In sodales sollicitudin tempus. Vestibulum consequat, sapien nec efficitur hendrerit, orci sapien dignissim metus, sed volutpat nisl ligula sit amet magna. 
-
-![Mahdollinen kuva](https://openclipart.org/image/300px/svg_to_png/223866/Reading-Story-Book-To-Kids.png&disposition=attachment)
-
-
-Mauris vitae nibh nec leo iaculis efficitur. Aenean ut sapien in felis dignissim venenatis nec ac ipsum. Donec odio massa, vehicula vel quam non, consequat facilisis quam. Donec cursus convallis sem a rutrum. Ut consequat turpis sed leo iaculis maximus. Vestibulum faucibus vel lacus pharetra congue. Suspendisse potenti.
+Tarkoittaa yksinkertaisesti aikaa prosessin alkamisen ja loppumisen välillä. Esimerkiksi kun ostat netistä tuotteen, 
+niin aika sen välillä kun laitat tilauksesi menemään, siihen asti kunnes saat tuotteesi itsellesi.  
 
 ### Muuta
 
@@ -30,10 +24,8 @@ Cras ullamcorper lacus sit amet nulla tincidunt, ut hendrerit tortor aliquam. Qu
 
 Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
 
-* Fusce tincidunt quis mauris [cursus vulputate](https://fi.wiktionary.org/wiki/aikarauta)
-* In tellus libero, sollicitudin nec volutpat a, 
-* bibendum ac nisi. Morbi eget est est. Vivamus non dignissim nisi, quis tempor magna. Pellentesque sollicitudin hendrerit neque, in molestie sapien porttitor aliquam. Pellentesque facilisis tellus ligula, ut egestas eros commodo ut. Nulla facilisi.
-
+* Investopedia [Leadtime](http://www.investopedia.com/terms/l/leadtime.asp)
+* Wikipedia [Leadtime](https://en.wikipedia.org/wiki/Lead_time) 
 
 ## Linkit wikin muihin sivuihin
 
