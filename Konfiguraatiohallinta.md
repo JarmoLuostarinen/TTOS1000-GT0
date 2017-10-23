@@ -60,7 +60,7 @@ Esimerkki järjestelmiä ovat: Vagrant, Ansible ja CFEngine.
 ## Lähteitä liittyen aiheeseen
 
 * Wikipedia [konfiguraationhallinta](https://en.wikipedia.org/wiki/Configuration_management)
-* Helsingin yliopiston tietojenkäsittelytieteen laitos [konfiguraationhallinta] (https://www.cs.helsinki.fi/u/laine/otv/seppanen.pdf)
+* Helsingin yliopiston tietojenkäsittelytieteen laitos [konfiguraationhallinta](https://www.cs.helsinki.fi/u/laine/otv/seppanen.pdf)
 * Wikipedia [konfiguraationhallinta](https://fi.wikipedia.org/wiki/Ohjelmiston_versiohallinta#Konfiguraationhallinta)
 
 
