@@ -87,7 +87,7 @@ Käsitteet on listattu tämän sivun loppuun! [X1-X15](https://github.com/JAMKPR
 | E2 | [Poikkeama - Defect]( Poikkeama(Defect)) | [Ominaisuus/piirre - Feature](ominaisuuus-feature) | - |
 | E3 | [Kriittinen polku - Critical Path](Kriittinen-polku) | [Vikatietokanta - Defect Database]() | - |
 | E4 | [Julkaisusuunnitelma - Release Plan](julkaisusuunnitelma)  | [Muutospyynto - Change Request](muutospyynto)  | - |
-| E5 | [Julkaisu - Release](julkaisu-release)) | [vikaraportti - bug report](vikaraportti-bug-report))| - | [Versiohallinta  - version control](versionhallinta) | [Tarkistaminen - Verifiointi)](verifikaatio-verification) | - |
+| E5 | [Julkaisu - Release](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/julkaisu.md) | [vikaraportti - bug report](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/vikaraportti.md)| - | [Versiohallinta  - version control](versionhallinta) | [Tarkistaminen - Verifiointi)](verifikaatio-verification) | - |
 | E6 | [Konfiguraatiohallinta(configuration management)](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Konfiguraatiohallinta.md) | [Lead Time - Läpivientiaika](leadtime) | - |
 | E7 | [Docker-teknologia - Docker Technology](Docker-kontti) | [Projektisuunnitelma (Project Plan)](Projektisuunnitelma) | - |
 | E8 | [Mikropalvelu - Micro Service](mikropalvelu) | [Riskien hallinta - Risk Management](riskienhallinta) |- |
