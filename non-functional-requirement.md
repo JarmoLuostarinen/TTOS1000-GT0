@@ -33,4 +33,4 @@ Viitattu 22.10.2017
 
 ## Linkit wikin muihin sivuihin
 
-* [Toiminnallinen vaatimus](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/functional-requirement.md)
+* [Toiminnallinen vaatimus](http://jamk-it-ttos1000-gt0.readthedocs.io/en/latest/functional-requirement/)
