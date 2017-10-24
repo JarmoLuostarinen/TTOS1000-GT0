@@ -84,7 +84,7 @@ Käsitteet on listattu tämän sivun loppuun! [X1-X15](https://github.com/JAMKPR
 | D8 | [Vika - Bug](Vika-(bug)) | [SLA Service Level Agreement](service-level-agreement)) |- |
 | D9 | [Virhe - Failure](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/failure.md) | [Vianhallinta (Error management)](vianhallinta) | - |
 | E1 | [Ongelma, virhe, vika](ongelma.md) | [Logi](logi.md) |- |
-| E2 | [Poikkeama - Defect]( Poikkeama(Defect)) | [Ominaisuus/piirre - Feature](ominaisuuus-feature) | - |
+| E2 | [Poikkeama - Defect](defect.md) | [Ominaisuus/piirre - Feature](feature.md) | - |
 | E3 | [Kriittinen polku - Critical Path](Kriittinen-polku) | [Vikatietokanta - Defect Database]() | - |
 | E4 | [Julkaisusuunnitelma - Release Plan](julkaisusuunnitelma)  | [Muutospyynto - Change Request](muutospyynto)  | - |
 | E5 | [Julkaisu - Release](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/julkaisu.md) | [vikaraportti - bug report](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/vikaraportti.md)| - | [Versiohallinta  - version control](versionhallinta) | [Tarkistaminen - Verifiointi)](verifikaatio-verification) | - |
