@@ -28,4 +28,4 @@ Peruuta tilaus -nappi on punainen.
 
 ## Linkit wikin muihin sivuihin
 
-TBD
+[Toiminnallinen vaatimus](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/non-functional-requirement.md)
