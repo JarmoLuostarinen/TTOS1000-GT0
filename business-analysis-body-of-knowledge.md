@@ -4,7 +4,7 @@ Kuvauksen kirjoitti: Mika Laine, H8872
 
 ## Lyhyt kuvaus käsitteestä tai aiheesta
 
-Business Analysis Body of Knowledge on International Institute of Business Analysis:in julkaisema 
+Business Analysis Body of Knowledge on International Institute of Business Analysis:in julkaisema...(Kesken)
 
 ### Muuta
 
