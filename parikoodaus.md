@@ -1,6 +1,6 @@
 # Käsite Parikoodaus
 
-Kuvauksen kirjoitti: Mauri Bosse, tunnus X1234
+Kuvauksen kirjoitti: Mika Laine, tunnus H8872
 
 ## Lyhyt kuvaus käsitteestä tai aiheesta
 
@@ -31,7 +31,7 @@ Cras ullamcorper lacus sit amet nulla tincidunt, ut hendrerit tortor aliquam. Qu
 
 Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
 
-* Fusce tincidunt quis mauris cursus vulputate. 
+* [Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
 * In tellus libero, sollicitudin nec volutpat a, 
 * bibendum ac nisi. Morbi eget est est. Vivamus non dignissim nisi, quis tempor magna. Pellentesque sollicitudin hendrerit neque, in molestie sapien porttitor aliquam. Pellentesque facilisis tellus ligula, ut egestas eros commodo ut. Nulla facilisi.
 
