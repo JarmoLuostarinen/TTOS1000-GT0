@@ -1,10 +1,10 @@
-# Käsite Business Analysis Body Of Knowledge
+# Käsite Business Analysis Body of Knowledge
 
 Kuvauksen kirjoitti: Mika Laine, H8872
 
 ## Lyhyt kuvaus käsitteestä tai aiheesta
 
-Lorem ipsum
+Business Analysis Body of Knowledge on International Institute of Business Analysis:in julkaisema 
 
 ### Muuta
 
@@ -23,10 +23,8 @@ Cras ullamcorper lacus sit amet nulla tincidunt, ut hendrerit tortor aliquam. Qu
 
 Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
 
-* Fusce tincidunt quis mauris cursus vulputate. 
-* In tellus libero, sollicitudin nec volutpat a, 
-* bibendum ac nisi. Morbi eget est est. Vivamus non dignissim nisi, quis tempor magna. Pellentesque sollicitudin hendrerit neque, in molestie sapien porttitor aliquam. Pellentesque facilisis tellus ligula, ut egestas eros commodo ut. Nulla facilisi.
-
+* [Wikipedia](https://en.wikipedia.org/wiki/A_Guide_to_the_Business_Analysis_Body_of_Knowledge)
+* [IIBA.org](http://www.iiba.org/babok-guide.aspx)
 
 ## Linkit wikin muihin sivuihin
 
