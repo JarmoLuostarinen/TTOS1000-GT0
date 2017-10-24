@@ -64,7 +64,7 @@ Käsitteet on listattu tämän sivun loppuun! [X1-X15](https://github.com/JAMKPR
 | B6 | [Tyotarina - Job Story](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/tyotarina.md) | [LEAN](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/LEAN.md) | - |
 | B7 | [Kayttajatarina - User Story](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/userstory.md) | [Just in Time - JIT](just-in-time) | - |
 | B8 | [Kayttötapaus - Use Case ](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/kayttotapaus.md) | [Lapimenoaika - Lead time](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/lapimenoaika.md) | - |
-| B9 | [UML - Unified Modeling Language](UML) | [Arvovirtakuvaus -Value Stream Map](arvovirtakuvaus) | - |
+| B9 | [UML - Unified Modeling Language](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/UML.md) | [Arvovirtakuvaus -Value Stream Map](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Arvovirtakuvaus.md) | - |
 | C1 | [Palvelumuotoilu - Service Design](Palvelumuotoilu) | [Agile Theme](Agile-Theme) |- |
 | C2 | [LEAN UX](Lean-Ux) | [Agile Epic](Agile-Epic) |- |
 | C3 | [Design Workshop (Suunnittelutyöpaja)](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Design_Workshop.md) | [Lean Body of Knowledge](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/LeanBodyOfKnowledge.md) | - | - |
@@ -79,7 +79,7 @@ Käsitteet on listattu tämän sivun loppuun! [X1-X15](https://github.com/JAMKPR
 | D3 | [Yksikkotestaus (Unit Testing)](Yksikkotestaus.md) | [Versiohallintahaara (Branch)](versiohallintahaara.md) | - |
 | D4 | [Regressiotestaus (Regression Testing)](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/regressiotestaus.md) | [Jatkuvajulkaisu (Continuous Delivery)](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/jatkuvajulkaisu.md) | - |
 | D5 | [Julkaisusuunnittelu (Release Management)](julkaisusuunnittelu) | [Jatkuvasuunnittelu (Continuous Planning)](jatkuvasuunnittelu) | - |
-| D6 | [Kayttoonotto (Service Deployment)](regressio-testaus) | [Liiketoiminantavoite (Business Goal)](liiketoimintatavoite) |- |
+| D6 | [Kayttoonotto (Service Deployment)](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/kayttoonotto.md) | [Liiketoiminantavoite (Business Goal)](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/liiketoimintatavoite.md) |- |
 | D7 | [Yllapito (Maintenance)](yllapito.md) | [Palvelukuvaus - Service Description](service-description.md) | - |
 | D8 | [Vika - Bug](Vika-(bug)) | [SLA Service Level Agreement](service-level-agreement)) |- |
 | D9 | [Virhe - Failure](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/failure.md) | [Vianhallinta (Error management)](vianhallinta) | - |
