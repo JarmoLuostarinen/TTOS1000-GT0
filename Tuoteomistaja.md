@@ -30,6 +30,6 @@ https://blogs.aalto.fi/itainnovaatiopalvelu/2011/11/01/scrum-ja-tuoteomistajan-r
 
 ## Linkit wikin muihin sivuihin
 
-Listaa tähän sivut repositorion sisältä, jotka liittyvät kuvaamaasi käsitteeseen/aiheeseen
-
-TBA
+* Asiakas - https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Asiakas.md
+* Agile software development https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Agile-Software-Development.md
+* Projektipäällikkö https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/projektipaallikko%20-%20project%20manager.md
