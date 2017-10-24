@@ -73,7 +73,7 @@ Käsitteet on listattu tämän sivun loppuun! [X1-X15](https://github.com/JAMKPR
 | C6 | [Jatkuvajulkaisu (Continuous delivery)](jatkuva-julkaisu) | [Kelpuuttaminen - Validation](kelpuuttaminen-validation) | - |
 | C7 | [Jatkuva integrointi(Continuous Integration)](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/jatkuva-integraatio.md) | [Software Engineering Body of Knowledge](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/swebok.md) | - |
 | C8 | [Laadunvarmistus (Quality Assurance)](laadunhallinta) | [Esineiden Internet - Internet of Things](internet-of-things) | - |
-| C9 | [Parikoodaus](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/parikoodaus.md) | [Business Analysis Body of Knowledge](business-analysis-body-of-knowledge) | - |
+| C9 | [Parikoodaus](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/parikoodaus.md) | [Business Analysis Body of Knowledge](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/business-analysis-body-of-knowledge.md) | - |
 | D1 | [kaantaja (Compiler)](kaantaja(compiler)) | [Information Technology Infrastructure Library ITIL](itil) | - |
 | D2 | [Laadunvarmistus (Quality Assurance)](laadunvarmistus) | [Software testing body of knowledge](software-testing-body-of-knowledge) |- |
 | D3 | [Yksikkotestaus (Unit Testing)](Yksikkotestaus.md) | [Versiohallintahaara (Branch)](versiohallintahaara.md) | - |
