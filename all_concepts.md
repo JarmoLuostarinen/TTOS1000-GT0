@@ -62,7 +62,7 @@ Käsitteet on listattu tämän sivun loppuun! [X1-X15](https://github.com/JAMKPR
 | B4 | [Ei-toiminnnallinen vaatimus - Non functional requirement](Ei-toiminnalinen-vaatimus) | [Reverse Engineering](Reverse-Engineering) | - |
 | B5 | [Vaatimusten jaljitettavyys - (Traceability)](traceability) | [Six Sigma](six-sigma) |- |
 | B6 | [Tyotarina - Job Story](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/tyotarina.md) | [LEAN](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/LEAN.md) | - |
-| B7 | [Kayttajatarina - User Story](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/userstory.md) | [Just in Time - JIT](just-in-time) | - |
+| B7 | [Kayttajatarina - User Story](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/userstory.md) | [Just in Time - JIT](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/JustInTime-JIT.md) | - |
 | B8 | [Kayttötapaus - Use Case ](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/kayttotapaus.md) | [Lapimenoaika - Lead time](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/lapimenoaika.md) | - |
 | B9 | [UML - Unified Modeling Language](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/UML.md) | [Arvovirtakuvaus -Value Stream Map](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Arvovirtakuvaus.md) | - |
 | C1 | [Palvelumuotoilu - Service Design](Palvelumuotoilu) | [Agile Theme](Agile-Theme) |- |
