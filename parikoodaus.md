@@ -4,37 +4,24 @@ Kuvauksen kirjoitti: Mika Laine, tunnus H8872
 
 ## Lyhyt kuvaus käsitteestä tai aiheesta
 
-**Käytä tätä sivua pohjana omalle wiki-sivulle! Älä muokkaa tätä, vaan tee siitä kopio!**
+Parikoodaus on ketterään ohjelmistokeitykseen liittyvä metodi, jossa kaksi koodaria ohjelmoi samalla tietokoneella. Usein toinen toimii koodarina, joka pystyy keskittymään enemmän tämän hetkiseen tehtävään, kun toinen seuraa ja tarkistaa kirjoitettua koodia ja suunnittelee mahdollisten tulevien ongelmien varalle. Roolit voivat vaihtua usein session aikana.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mauris dolor, semper egestas justo nec, dapibus porta risus. Mauris ultrices, felis et pretium dapibus, erat turpis gravida ipsum, eget semper ex ante sit amet magna. Nulla eget lorem orci. Integer a erat ante. In sodales sollicitudin tempus. Vestibulum consequat, sapien nec efficitur hendrerit, orci sapien dignissim metus, sed volutpat nisl ligula sit amet magna. 
+### Pros
+* Parikoodauksen on havaittu vähentävän ohjelman bugisuutta ja internet kyselyn mukaan 96% vastaajista nautti parikoodauksesta enemmän kuin yksin koodauksesta, ja 95% vastaajista kertoi olevansa varmempi ratkaisuistaan parikoodauksen aikana.
+* Koodarit oppivat jatkuvasti toisiltaan, varsinkin jos molemmat tulevat eri taustoista, pienistä vinkeistä ohjelmointikielestä suurempiin ohjelmointi tyyleihin.
+* Etenkin jos toinen koodareista on toista osaavampi, vähemmän osaava voi oppia paljon toiselta. Myös osaavampi voi oppia, koska vähemmän osaava voi tuoda uusia näkökulmia aiheeseen, tai kyseenalaistaa vanhoja tunnettuja tapoja.
+* Hankalemmissa ja isommissa projekteissa koodausaika lyhenee ja koodi on helpompilukuista, mutta työtunnit nousee.
+### Cons
+* Työtunnit nousee, koska kaksi koodaria tekee samaa työtä.
+* Yksinkertaisissa tehtävissä, joinka molemmat koodarit ymmärtävät ja hallitsevat, koodausaika nousee, keskustellessa pienistä yksityiskohdista. Myös hankalemmissa tehtävissä koodausaika nousee, jos kumpikaan koodareista ei hallitse aluetta, eikä lähellä ole esimerkiksi opettajaa auttamassa.
+* Jos koodareiden välillä ei tapahdu kanssakäymistä, parityöskentely on turhaa. Näin voi käydä esimerkiksi jos toinen koodareista ei seuraa mitä tapahtuu, ja toinen koodaa omassa hiljaisuudessaan; tai toinen koodareista on vähemmän osaava eikä osallistu koodaukseen, vaan seuraa hiljaa vierestä.
 
-![Mahdollinen kuva1](https://openclipart.org/image/300px/svg_to_png/223866/Reading-Story-Book-To-Kids.png&disposition=attachment)
-
-
-
-Mauris vitae nibh nec leo iaculis efficitur. Aenean ut sapien in felis dignissim venenatis nec ac ipsum. Donec odio massa, vehicula vel quam non, consequat facilisis quam. Donec cursus convallis sem a rutrum. Ut consequat turpis sed leo iaculis maximus. Vestibulum faucibus vel lacus pharetra congue. Suspendisse potenti.
-
-### Muuta
-
-Donec cursus convallis sem a rutrum. Ut consequat turpis sed leo iaculis maximus. Vestibulum faucibus vel lacus pharetra congue. Suspendisse potenti. Donec cursus convallis sem a rutrum. Ut consequat turpis sed leo iaculis maximus. Vestibulum faucibus vel lacus pharetra congue. Suspendisse potenti.
-
-
-### Sitä sun tätä
-
-Vivamus lobortis augue at erat ullamcorper maximus. Etiam sit amet augue nec neque porttitor blandit eget ut sem.Vivamus lobortis augue at erat ullamcorper maximus. Etiam sit amet augue nec neque porttitor blandit eget ut sem.
-
-## Esimerkkejä
-
-Cras ullamcorper lacus sit amet nulla tincidunt, ut hendrerit tortor aliquam. Quisque non scelerisque turpis, et ornare purus. [Kannatta upottaaa toisten sivja osaksi omaa teksti](home) Praesent accumsan tortor urna, at elementum massa maximus sagittis. Vivamus lobortis augue at erat ullamcorper maximus. Etiam sit amet augue nec neque porttitor blandit eget ut sem. Aenean aliquet hendrerit eros quis faucibus. Suspendisse gravida sit amet ligula non tempus. Duis in efficitur magna. Proin sollicitudin nulla vel tellus lobortis egestas. Maecenas consectetur non elit vitae tristique. Nunc eget facilisis velit. Mauris cursus augue in tempor sollicitudin. Proin ut tellus sed leo aliquet lacinia. Suspendisse a felis id ante suscipit dictum a et lorem. Praesent vestibulum ligula at vestibulum viverra.
+Parikoodausta ei ole vielä virallisesti kokonaan todettu paremmaksi tai hyödyllisemmäksi vaihtoehdoksi.
 
 ## Lähteitä liittyen aiheeseen
 
-Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
-
 * [Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
-* In tellus libero, sollicitudin nec volutpat a, 
-* bibendum ac nisi. Morbi eget est est. Vivamus non dignissim nisi, quis tempor magna. Pellentesque sollicitudin hendrerit neque, in molestie sapien porttitor aliquam. Pellentesque facilisis tellus ligula, ut egestas eros commodo ut. Nulla facilisi.
-
+* [Pair programming productivity: Novice–novice vs. expert–expert](http://www.cs.utexas.edu/users/mckinley/305j/pair-hcs-2006.pdf)
 
 ## Linkit wikin muihin sivuihin
 
