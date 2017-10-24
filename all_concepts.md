@@ -94,7 +94,7 @@ Käsitteet on listattu tämän sivun loppuun! [X1-X15](https://github.com/JAMKPR
 | E9 | [Virtuaalikone - Virtual Machine)](vvirtuaalikone) | [Palvelumuotoilija - Service Designer)](palvelumuotoilija) |- |
 | F1 | [Vagrant-teknologia - Vagrant technology](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Vagrant-teknologia.md) | [Ohjelmistotuotanto](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Ohjelmistotuotanto.md) |
 | F2 | [Systeemiajattelu - Systems Thinking](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/systeemiajattelu.md) | [ohjelmistotestaaja - software tester](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/ohjelmistotestaaja.md)  | 
-| F3 | [Prosessin omistaja - Process owner](prosessinomistaja) | [Kettera kehittaminen - agile development](kettera-kehittaminen) | - |
+| F3 | [Prosessin omistaja - Process owner](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Process-Owner.md) | [Kettera kehittaminen - agile development](kettera-kehittaminen) | - |
 | F4 | [Ohjelmiston elinkaarimalli](ohjelmiston-elinkaarimalli) | [Jatkuva Suunnittelu - Continuous Planning](continuous-planning) | - |
 
 ### EXTRA NAKIT!
