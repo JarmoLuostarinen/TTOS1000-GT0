@@ -1,0 +1,31 @@
+# Käsite Vaatimusten jäljitettävyys
+
+Kuvauksen kirjoitti: Risto Laine, tunnus K1516
+
+## Kuvaus
+
+Vaatimusten jäljitettävyyden tehtävänä on varmistaa, että jokainen liiketoiminnan tarve on sidottu todelliseen vaatimukseen sekä jokainen vaatimus on sidottu toimitukseen. Liiketoiminnan analyytikoille tämä on arvokas käytäntö. Heidän käyttämän oppaan mukaan kaikki vaatimukset liittyvät muihin vaatimuksiin. Vaatimusten jäljitettävyydellä on siis tarkoituksena varmistaa, että vaatimukset liitetään yrityksen tavoitteeseen, eli toisin sanoen se varmistaa, että kaikilla vaatimuksilla on liiketoiminnallinen tarkoitus ja sen ettei vaatimus ole tarpeeton.
+
+Vaatimuksen jäljittämiseen on neljä erilaista tapaa Karl Weigersin mukaan.
+1. Asiakkaan tarpeista on tehty vaatimuksia, jotta voidaan selvittää mitkä vaatimukset vaikuttavat, jos tarpeet muuttuvat.
+2. Vaatimuksen voi jäljittää vaatimalla yksittäisten vaatimusten ja tiettyjen tuoteselosteiden välisiä yhteyksiä
+3. Tietyt tuote-elementit voidaan jäljittää taaksepäin vaatimuksiin, jotta tiedetään miksi jokainen kohde luotiin.
+4. Vaatimuksen voi jäljittää myös taaksepäin asiakkaan tarpeista, jonka avulla tunnistetaan vaatimus.
+Vaatimukset voidaan myös jäljittää muihin vastaavanlaisiin vaatimuksiin, joten yksinkertaisesti vaatimusten jäljitettävyys jäljittää asetettujen vaatimusten, yritysten tarpeiden ja vastaavien vaatimusten välisten suhteiden sekä hankkeen vaatimusten ja eri toimitusten välisiä suhteita.
+
+Vaatimusten jäljitettävyys on tärkeää, koska sen avulla voidaan säästää rahaa, aikaa ja vaivaa analyytikoilta, projektin sponsoreilta ja pääorganisa
+
+Vaatimusten jäljitettävyys ottaa usein yhden fyysisen muodon: vaatimusten jäljitettävyyden matrixin.  Se on manuaalinen laskentalukko, joka osoittaa vaatimusten ja liiketoiminnan tarpeiden sekä muiden vaatimusten tai toimitusen väliset yhteydet. Jäljitettävyyden matrixi on yleisin tapa osoittaa vaatimusten jäljitettävyys.
+
+Vaatimuksia voi jäljittää automaattisesti, joka on monen vaatimustenhallintaohjelmien summa. Ihminen ei välttämättä huomaa kaikkia muutoksia, jonka takia vaatimuksia jäljitetään automaattisesti.
+Käyttipä organisaation manuaalista tai automaattista tyyliä, niin molempien menetelmien tehokkuus hyödyntää suuresti parhaita käytäntöjä.
+
+## Esimerkkejä
+
+![Esimerrki](https://d1fhzurqmm0rwe.cloudfront.net/wp-content/uploads/2017/02/Requirements-Traceability-Matrix-Sample-1024x292.png)
+
+## Lähteitä liittyen aiheeseen
+
+Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
+
+* https://project-management.com/requirements-traceability-matrix-rtm/
