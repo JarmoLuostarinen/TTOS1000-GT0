@@ -30,4 +30,5 @@ http://www.ciena.com/insights/what-is/what-is-service-orchestration.html
 
 ## Linkit wikin muihin sivuihin
 
-TBA
+* Docker - https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/docker.md
+* Ohjelmistoarkkitehti - https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/ohjelmistoarkkitehti.md
