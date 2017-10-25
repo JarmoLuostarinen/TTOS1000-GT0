@@ -34,3 +34,4 @@ Kerää tähän sivut wikin sisältä, jotka mielestäsi liittyvät kuvaamaasi k
 *[Muutospyyntö](http://jamk-it-ttos1000-gt0.readthedocs.io/en/latest/muutospyynto/)
 
 *[Yksikkötesti](http://jamk-it-ttos1000-gt0.readthedocs.io/en/latest/yksikk%C3%B6testi/)
+*[Jatkuva integraatio](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/jatkuva-integraatio.md)
