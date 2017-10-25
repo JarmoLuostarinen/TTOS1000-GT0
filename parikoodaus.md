@@ -25,4 +25,5 @@ Parikoodausta ei ole vielä virallisesti kokonaan todettu paremmaksi tai hyödyl
 
 ## Linkit wikin muihin sivuihin
 
-* [Agile Software Development](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Agile-Software-Development.md) 
+* [Agile Software Development](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Agile-Software-Development.md)
+* [Ongelma, virhe, vika](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/ongelma.md)
