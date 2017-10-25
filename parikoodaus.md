@@ -1,4 +1,4 @@
-# Käsite Parikoodaus
+# Parikoodaus
 
 Kuvauksen kirjoitti: Mika Laine, tunnus H8872
 
@@ -25,7 +25,4 @@ Parikoodausta ei ole vielä virallisesti kokonaan todettu paremmaksi tai hyödyl
 
 ## Linkit wikin muihin sivuihin
 
-Listaa tähän sivut repositorion sisältä, jotka liittyvät kuvaamaasi käsitteeseen/aiheeseen
-
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]()
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]() 
+* [Agile Software Development](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Agile-Software-Development.md) 
