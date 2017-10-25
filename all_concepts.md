@@ -112,7 +112,7 @@ Nämä on varattu myöhästelijöille!
 | X7 | [Burn down]() |  | 
 | X8 | [Tasking]() |  | 
 | X9 | [Feature Branch](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/feature-branch.md) |  | 
-| X10 | [AWS Lambda]() | | 
+| X10 | [AWS Lambda](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/AWS-Lambda.md) | | 
 | X11 | [Kanban]() | | 
 | X12 | [Offshore]() | | 
 | X13 | [Outsourcing]() | | 
