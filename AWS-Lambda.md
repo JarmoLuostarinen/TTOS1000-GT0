@@ -1,6 +1,6 @@
 # AWS Lambda
 
-Kuvauksen kirjoitti: Mika Laine, H8872
+Kuvauksen kirjoitti: Place Holder, X1337
 
 ## Lyhyt kuvaus käsitteestä tai aiheesta
 
